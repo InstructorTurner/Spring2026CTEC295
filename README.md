@@ -13,3 +13,5 @@ Your First Git Project Playground
 ## Messages:
 Hello!
 Hello from Isaiah Williams
+Hello from Jewlius Smith
+
