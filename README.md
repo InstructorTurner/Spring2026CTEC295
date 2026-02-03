@@ -17,4 +17,4 @@ Your First Git Project Playground
 
 Hello!
 Hello from Isaiah Williams
-
+Hello from Jewlius Smith
